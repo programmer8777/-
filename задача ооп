@@ -1,0 +1,20 @@
+using System;
+
+namespace task_2
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int totalCoins = 255;
+            bool canBuy = true;
+            byte level = 12;
+            sbyte timeMinutes = 15;
+            char token = '+';
+            double damage = 31646;
+            string category = "shooter";
+            float weaponWeight = 1.75f
+            short distance = 3645;
+            ushort points = 15664;
+        }
+    }
